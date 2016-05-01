@@ -33,6 +33,11 @@ button
 height: 50px;
 }
 
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+
+
 
 .navbar-brand
 {
